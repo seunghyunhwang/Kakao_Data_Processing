@@ -12,7 +12,7 @@ print(font_list)
 for i in font_list:
     if 'ing' in i:
         print(i)
-font_name='D2Coding'
+font_name='D2Coding' # 글씨체를 변경할 수 있습니다.
 # font = fm.FontProperties(fname=font_path).get_name()
 # font1 = fm.FontProperties(fname=font_path)
 # print(font)
